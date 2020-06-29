@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\bin\Release\HuffmanCompression.exe.config
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\bin\Release\HuffmanCompression.exe
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\bin\Release\HuffmanCompression.pdb
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\obj\Release\HuffmanCompression.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\obj\Release\HuffmanCompression.Form1.resources
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\obj\Release\HuffmanCompression.Properties.Resources.resources
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\obj\Release\HuffmanCompression.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\obj\Release\HuffmanCompression.exe
+C:\Users\Admin\Desktop\bk5\data\project\HuffmanCompression\HuffmanCompression\obj\Release\HuffmanCompression.pdb
